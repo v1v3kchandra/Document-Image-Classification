@@ -1,2 +1,0 @@
-contains the trained weights, can be used for evaluation on classifiers.
-The "model_DOC_VIT_6.pth" is a ViT trained model on RVL-CDIP dataset for till it acheived an accuracy of 99.16% on train data and 89% on cross-validation data.
