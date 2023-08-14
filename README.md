@@ -34,6 +34,7 @@ For feature extraction, execute the `ViT_Document_classification_feature_extract
 # Saved Weights
 
 The saved ViT model weights can be found in the `weights` folder. These weights are useful for evaluation purposes. To conduct evaluations only, use the loaded models within your evaluation script.
+The trained model can be found at this link :https://drive.google.com/file/d/1-RCsEX1euADZhGnV4HtPQt7Aif1RYNJy/view?usp=sharing
 
 For any questions or clarifications, feel free to open an issue or contact us.
 
